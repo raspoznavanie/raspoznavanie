@@ -29,7 +29,7 @@ body a{
 /*--end-logo--*/
 /*--starts-top-header--*/
 .top-header {
-    background: #777;
+    background: #203464;
     padding: 10px 0px;
 }
 .search-bar input[type="text"] {
@@ -3036,7 +3036,10 @@ ul.tag-men {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	clear: both;
   width: 30%;
-	color: #21262a;
+	color: #fff;
+	font-family: 'Lato-Regular', sans-serif;
+	margin-left: 60px;
+	padding-top: 60px;
 }
 .map {
 	width: 100%;
